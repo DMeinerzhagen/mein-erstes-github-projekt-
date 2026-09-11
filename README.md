@@ -2,12 +2,6 @@
  
 Testerino
  
-## Über mich 
+Das ist einfach nur ein Test
  
-Name: fiktiver Name  
-Klasse:  
- 
-## Das möchte ich lernen 
- 
-- GitHub verstehen 
-- Dateien bearbeiten
+
